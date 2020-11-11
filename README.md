@@ -1,6 +1,6 @@
 # Retinanet Utilities
 
-This repository contains Python utility scripts used for data/image preprocessing for the project I contributed. Some of the utilities posted here were not available directly, so notebooks here can be helpful (mostly for pre-processing & annotation arranging) for [RetinaNet](https://github.com/fizyr/keras-retinanet).
+This repository contains Python utility scripts used for data/image preprocessing for the project I contributed. Some of the utilities posted here were not available directly, so notebooks here can be helpful (mostly for pre-processing & annotation arranging) for DL practicioners with [RetinaNet](https://github.com/fizyr/keras-retinanet).
 
 ## Contents
 
